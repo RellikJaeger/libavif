@@ -21,3 +21,4 @@
 .vscode/
 cscope.*
 tags
+.DS_Store
